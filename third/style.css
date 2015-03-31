@@ -1,0 +1,62 @@
+
+.text {
+	font-size: 25px;
+	padding: 75px 75px 75px 75px;
+	font-family: helvetica;
+	line-height: 30px;
+	font-weight: lighter;
+}
+
+.one {
+	background: #d8d8d8;
+	width: 100%;
+	height: 100px;
+	margin-top: -25px;
+}
+
+.littlebox {
+	position: absolute;
+	background: #4a90e2;
+	width: 7%;
+	height: 8%;
+	margin-top: 2%;
+	margin-left: 2%;
+
+
+}
+
+.two {
+	background: #fff;
+	width: 100%;
+	height: 300px;
+	margin-top: -25px;
+}
+
+.three {
+	background: #4a90e2;
+	width: 100%;
+	height: 100px;
+	margin-top: -25px;
+}
+
+.four {
+	background: #50e3c2;
+	width: 100%;
+	height: 100px;
+	margin-top: -25px;
+}
+
+.five {
+	background: #b8e986;
+	width: 100%;
+	height: 100px;
+	margin-top: -25px;
+
+}
+
+.six {
+	background: #f8e71c;
+	width: 100%;
+	height: 100px;
+	margin-top: -25px;
+}
