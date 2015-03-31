@@ -1,0 +1,33 @@
+body {
+	background: #efefef;
+}
+
+.top {
+	background: #444444;
+	height: 125px;
+}
+
+.mid {
+
+
+}
+
+.left {
+	float: left;
+	background: #d8d8d8;
+	height: 650px;
+	width: 125px;
+}
+
+.right {
+	float: right;
+	background: #d8d8d8;
+	height: 650px;
+	width: 125px;
+}
+
+footer {
+	background: #222222;
+	height: 50px;
+	margin-top: 600px; 
+}
